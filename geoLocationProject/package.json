@@ -10,9 +10,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@maptiler/sdk": "^3.8.0",
+    "dotenv": "^17.2.3",
+    "framer-motion": "^12.23.22",
     "i18n-iso-countries": "^7.14.0",
+    "leaflet": "^1.9.4",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "react-globe.gl": "^2.36.0",
+    "react-leaflet": "^5.0.0",
+    "resium": "^1.19.0-beta.1",
+    "three": "^0.180.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
